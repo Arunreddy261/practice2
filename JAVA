@@ -1,0 +1,4 @@
+Defination Token: The smallest unit of the program which helps to programmer to create  genrate instruction
+types token 
+1. keyword
+2. identifier
